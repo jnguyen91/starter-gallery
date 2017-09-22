@@ -7,6 +7,10 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Team members: JN, NG, DC
 Changelog is useful
 
+## *version 1.1*
+Trivial to Basic Website Conversion
+
+
 ## *Version 1.0*
 static to trivial website conversion
 
